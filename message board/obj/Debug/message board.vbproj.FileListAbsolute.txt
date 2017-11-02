@@ -1,0 +1,73 @@
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message board.exe
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message board.pdb
+D:\VB.NET_SOFTWARES1\message board\message board\bin\Debug\message board.exe
+D:\VB.NET_SOFTWARES1\message board\message board\bin\Debug\message board.pdb
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\ResolveAssemblyReference.cache
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message_board.account.resources
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message_board.createac.resources
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message_board.Form1.resources
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message_board.frmchat.resources
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message_board.frmdraft.resources
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message_board.frminbox.resources
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message_board.frmtrash.resources
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message_board.frnsent.resources
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message_board.msgboxform.resources
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message_board.Resources.resources
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message board.vbproj.GenerateResource.Cache
+D:\VB.NET_SOFTWARES1\message board\message board\bin\Debug\message board.xml
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message board.xml
+D:\VB.NET_SOFTWARES1\message board\message board\obj\Debug\message_board.Form2.resources
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message board.xml
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message board.pdb
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\bin\Debug\message board.exe
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\bin\Debug\message board.pdb
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\bin\Debug\message board.xml
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message_board.account.resources
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message_board.createac.resources
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message_board.Form1.resources
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message_board.Form2.resources
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message_board.frmchat.resources
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message_board.frmdraft.resources
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message_board.frminbox.resources
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message_board.frmtrash.resources
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message_board.frnsent.resources
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message_board.msgboxform.resources
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message_board.Resources.resources
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message board.vbproj.GenerateResource.Cache
+C:\Users\VIIT-PC\Desktop\vb\message board\message board\obj\Debug\message board.exe
+C:\message board\message board\obj\Debug\message board.exe
+C:\message board\message board\obj\Debug\message board.xml
+C:\message board\message board\obj\Debug\message board.pdb
+C:\message board\message board\bin\Debug\message board.exe
+C:\message board\message board\bin\Debug\message board.pdb
+C:\message board\message board\bin\Debug\message board.xml
+C:\message board\message board\obj\Debug\message_board.account.resources
+C:\message board\message board\obj\Debug\message_board.createac.resources
+C:\message board\message board\obj\Debug\message_board.Form1.resources
+C:\message board\message board\obj\Debug\message_board.Form2.resources
+C:\message board\message board\obj\Debug\message_board.frmchat.resources
+C:\message board\message board\obj\Debug\message_board.frmdraft.resources
+C:\message board\message board\obj\Debug\message_board.frminbox.resources
+C:\message board\message board\obj\Debug\message_board.frmtrash.resources
+C:\message board\message board\obj\Debug\message_board.frnsent.resources
+C:\message board\message board\obj\Debug\message_board.msgboxform.resources
+C:\message board\message board\obj\Debug\message_board.Resources.resources
+C:\message board\message board\obj\Debug\message board.vbproj.GenerateResource.Cache
+C:\message board1\message board\obj\Debug\message board.exe
+C:\message board1\message board\obj\Debug\message board.xml
+C:\message board1\message board\obj\Debug\message board.pdb
+C:\message board1\message board\bin\Debug\message board.exe
+C:\message board1\message board\bin\Debug\message board.pdb
+C:\message board1\message board\bin\Debug\message board.xml
+C:\message board1\message board\obj\Debug\message_board.account.resources
+C:\message board1\message board\obj\Debug\message_board.createac.resources
+C:\message board1\message board\obj\Debug\message_board.Form1.resources
+C:\message board1\message board\obj\Debug\message_board.Form2.resources
+C:\message board1\message board\obj\Debug\message_board.frmchat.resources
+C:\message board1\message board\obj\Debug\message_board.frmdraft.resources
+C:\message board1\message board\obj\Debug\message_board.frminbox.resources
+C:\message board1\message board\obj\Debug\message_board.frmtrash.resources
+C:\message board1\message board\obj\Debug\message_board.frnsent.resources
+C:\message board1\message board\obj\Debug\message_board.msgboxform.resources
+C:\message board1\message board\obj\Debug\message_board.Resources.resources
+C:\message board1\message board\obj\Debug\message board.vbproj.GenerateResource.Cache

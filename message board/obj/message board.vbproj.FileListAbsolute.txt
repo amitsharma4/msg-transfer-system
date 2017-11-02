@@ -1,0 +1,36 @@
+D:\vb project\message board\message board\obj\Debug\message board.exe
+D:\vb project\message board\message board\obj\Debug\message board.xml
+D:\vb project\message board\message board\obj\Debug\message board.pdb
+D:\vb project\message board\message board\bin\Debug\message board.exe
+D:\vb project\message board\message board\bin\Debug\message board.pdb
+D:\vb project\message board\message board\bin\Debug\message board.xml
+D:\vb project\message board\message board\obj\Debug\ResolveAssemblyReference.cache
+D:\vb project\message board\message board\obj\Debug\message_board.account.resources
+D:\vb project\message board\message board\obj\Debug\message_board.createac.resources
+D:\vb project\message board\message board\obj\Debug\message_board.Form1.resources
+D:\vb project\message board\message board\obj\Debug\message_board.Resources.resources
+D:\vb project\message board\message board\obj\Debug\message board.vbproj.GenerateResource.Cache
+D:\message board\message board\obj\Debug\message board.exe
+D:\message board\message board\obj\Debug\message board.xml
+D:\message board\message board\obj\Debug\message board.pdb
+D:\message board\message board\bin\Debug\message board.exe
+D:\message board\message board\bin\Debug\message board.pdb
+D:\message board\message board\bin\Debug\message board.xml
+D:\message board\message board\obj\Debug\ResolveAssemblyReference.cache
+D:\message board\message board\obj\Debug\message_board.account.resources
+D:\message board\message board\obj\Debug\message_board.createac.resources
+D:\message board\message board\obj\Debug\message_board.Form1.resources
+D:\message board\message board\obj\Debug\message_board.frmchat.resources
+D:\message board\message board\obj\Debug\message_board.frmdraft.resources
+D:\message board\message board\obj\Debug\message_board.frminbox.resources
+D:\message board\message board\obj\Debug\message_board.frmtrash.resources
+D:\message board\message board\obj\Debug\message_board.frnsent.resources
+D:\message board\message board\obj\Debug\message_board.msgboxform.resources
+D:\message board\message board\obj\Debug\message_board.Resources.resources
+D:\message board\message board\obj\Debug\message board.vbproj.GenerateResource.Cache
+D:\vb project\message board\message board\obj\Debug\message_board.frmchat.resources
+D:\vb project\message board\message board\obj\Debug\message_board.frmdraft.resources
+D:\vb project\message board\message board\obj\Debug\message_board.frminbox.resources
+D:\vb project\message board\message board\obj\Debug\message_board.frmtrash.resources
+D:\vb project\message board\message board\obj\Debug\message_board.frnsent.resources
+D:\vb project\message board\message board\obj\Debug\message_board.msgboxform.resources

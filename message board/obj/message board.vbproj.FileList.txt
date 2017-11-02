@@ -1,0 +1,18 @@
+obj\Debug\message board.exe
+obj\Debug\message board.xml
+obj\Debug\message board.pdb
+bin\Debug\message board.exe
+bin\Debug\message board.pdb
+bin\Debug\message board.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\message_board.account.resources
+obj\Debug\message_board.createac.resources
+obj\Debug\message_board.Form1.resources
+obj\Debug\message_board.Resources.resources
+obj\Debug\message board.vbproj.GenerateResource.Cache
+obj\Debug\message_board.msgboxform.resources
+obj\Debug\message_board.frminbox.resources
+obj\Debug\message_board.frnsent.resources
+obj\Debug\message_board.frmdraft.resources
+obj\Debug\message_board.frmtrash.resources
+obj\Debug\message_board.frmchat.resources
